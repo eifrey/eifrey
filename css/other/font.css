@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'eifrey';
+    src: url('../../fonts/ZhuZiAWan.ttf');
+    /* 字体文件路径 */
+    font-display: swap;
+}
+
+body,
+.gitcalendar {
+    font-family: eifrey !important;
+}
